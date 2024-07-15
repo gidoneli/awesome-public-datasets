@@ -1600,6 +1600,8 @@ Sports
 * |OK_ICON| `Transfermarkt Datasets - Clean, structured and automatically updated football (soccer) data [...] <https://github.com/dcaribou/transfermarkt-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Transfermarkt-Datasets.yml>`_]
         
 * |OK_ICON| `USA Soccer Teams and Locations - USA soccer teams and locations. MLS, NWSL, and USL [...] <https://github.com/gavinr/usa-soccer>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/USA-Soccer.yml>`_]
+
+* |OK_ICON| `NBA Players' Stats (ESPN) <https://brightdata.com/products/datasets/marketplace/>`_ [`Meta <https://brightdata.com/products/datasets/marketplace>`_]
     
 TimeSeries
 ----------
