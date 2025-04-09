@@ -1386,6 +1386,8 @@ SearchEngines
 SocialNetworks
 --------------
         
+* |OK_ICON| `LinkedIn People Profiles Dataset - 541M users, 28M new user profiles updated every month <https://get.brightdata.com/vitariz366>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/LinkedIn_People_Profiles_541M_Records.yml>`_] 
+
 * |OK_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
